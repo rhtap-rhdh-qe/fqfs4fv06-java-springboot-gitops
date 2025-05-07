@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: fqfs4fv06-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/fqfs4fv06-java-springboot-gitops
